@@ -34,7 +34,7 @@ build:
 accounts:
   message: "welcome to accounts Microservice"
   contactDetails:
-    email: "thodsareaditya@gmail.com"
+    email: "8e258e2c06edd94e0e6d66e9c66e6ec4e1ba2bfe3acc9c5291d9c72634b80de40a3cb48ad342c815c41e96b5718ca6a7"
     mobileNumber: "1234567890"
   callSupport:
     - "thodsareaditya@gmail.com"
